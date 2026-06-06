@@ -1,247 +1,388 @@
-# 🏨 Grand Azure Hotel
+# 🏨 Grand Azure Hotel Management System
 
-Grand Azure Hotel is a modern hotel booking and management platform that combines a professional hotel website, a guest portal, and a powerful administrative dashboard into a single system.
+> 🚀 Designed and Developed by **Locos Developer**
 
-The platform is designed to provide a seamless experience for guests while giving hotel staff complete control over reservations, rooms, payments, customer support, housekeeping, and business operations.
+A modern, responsive, and feature-rich hotel booking and management platform that combines a professional hotel website, guest dashboard, and advanced administration panel into one powerful solution.
+
+Grand Azure Hotel is designed to simplify hotel operations, improve customer experiences, and provide hotel administrators with complete control over bookings, rooms, guests, payments, housekeeping, loyalty rewards, customer support, and business analytics.
 
 ---
 
-# ✨ Features
+# 🌟 Overview
+
+Grand Azure Hotel is a comprehensive hospitality management system built using modern web technologies. The platform enables visitors to browse rooms, make reservations, manage bookings, earn loyalty rewards, communicate with support, and access personalized dashboards.
+
+At the same time, hotel administrators can efficiently manage rooms, reservations, payments, reviews, amenities, housekeeping operations, promotions, customer support, and overall hotel performance from a centralized dashboard.
+
+---
+
+# ✨ Core Features
 
 ## 🌐 Public Website
 
-The public-facing website allows visitors to:
+The customer-facing website provides visitors with everything they need to discover and book accommodations.
 
-* Browse hotel rooms
-* View room details and amenities
-* Explore hotel galleries
-* Learn about hotel services
-* Create an account
-* Sign in securely
-* Make room reservations
-* Access responsive pages across all devices
+### Features
 
----
-
-## 👤 Guest Dashboard
-
-Registered guests have access to a personalized dashboard where they can:
-
-### 📅 Booking Management
-
-* View reservations
-* Track booking status
-* Manage upcoming stays
-* Access booking history
-
-### ❤️ Wishlist
-
-* Save favorite rooms
-* Quickly access preferred accommodations
-
-### 🎁 Loyalty Program
-
-* Earn loyalty points
-* Monitor rewards
-* Redeem available benefits
-
-### 🔔 Notifications
-
-* Booking updates
-* Hotel announcements
-* Loyalty updates
-* System notifications
-
-### 🧾 Invoices
-
-* View booking invoices
-* Access payment records
-* Download billing information
-
-### 👤 Profile Management
-
-* Update personal information
-* Manage account settings
-* Maintain guest preferences
-
-### 💬 Support Center
-
-* Submit support tickets
-* Communicate with hotel staff
-* Track ticket progress
+* Modern Home Page
+* Responsive Design
+* Room Listings
+* Room Details Pages
+* Hotel Gallery
+* Hotel Amenities
+* About Us Section
+* Contact Page
+* Booking Functionality
+* User Registration
+* User Login
+* Mobile-Friendly Experience
+* Smooth Navigation
+* Interactive User Interface
 
 ---
 
-# 🛠️ Administrative Dashboard
+# 👤 Guest Dashboard
 
-The system includes a comprehensive administration panel for hotel management.
-
-## 📊 Dashboard Analytics
-
-* Hotel performance overview
-* Booking statistics
-* Occupancy monitoring
-* Revenue tracking
-* Business insights
-
-## 🏨 Room Management
-
-* Create rooms
-* Edit room information
-* Delete rooms
-* Manage room availability
-* Update room details
+After authentication, guests gain access to a personalized dashboard.
 
 ## 📅 Booking Management
 
-* View reservations
-* Approve bookings
-* Manage guest stays
-* Update booking statuses
+Guests can:
 
-## 👥 User Management
-
-* Manage guest accounts
-* View customer information
-* Control user access
-
-## ⭐ Reviews Management
-
-* Monitor guest reviews
-* Moderate feedback
-* Improve customer satisfaction
-
-## 🖼️ Gallery Management
-
-* Upload hotel images
-* Manage media assets
-* Showcase hotel facilities
-
-## 🏷️ Amenities Management
-
-* Manage hotel amenities
-* Update room features
-* Organize service offerings
-
-## 💳 Payments Management
-
-* Track transactions
-* View payment records
-* Monitor revenue streams
-
-## 🧹 Housekeeping Management
-
-* Manage cleaning schedules
-* Track room status
-* Coordinate housekeeping operations
-
-## 🎟️ Promo Code Management
-
-* Create discounts
-* Manage promotional campaigns
-* Increase booking conversions
-
-## 📋 Activity Logs
-
-* Monitor system activities
-* Track administrative actions
-* Improve accountability
-
-## 💬 Support Ticket Management
-
-* Manage customer support requests
-* Assign tickets
-* Resolve guest issues efficiently
-
-## 🎁 Loyalty Management
-
-* Configure reward programs
-* Track customer engagement
-* Manage loyalty benefits
-
-## ⚙️ Settings Management
-
-* Configure hotel settings
-* Manage platform preferences
-* Customize system behavior
+* View Active Reservations
+* View Booking History
+* Track Reservation Status
+* Access Booking Information
+* Manage Upcoming Stays
 
 ---
 
-# 🚀 Technology Stack
+## ❤️ Wishlist
 
-### Frontend
+Guests can:
 
-* React
-* TypeScript
-* Vite
-* Tailwind CSS
+* Save Favorite Rooms
+* Organize Preferred Accommodations
+* Quickly Access Saved Rooms
 
-### UI Components
+---
 
-* Radix UI
-* Lucide Icons
-* Framer Motion
-* Recharts
+## 🎁 Loyalty Rewards
 
-### State & Data Management
+Guests can:
 
-* React Query
-* React Context API
+* Earn Loyalty Points
+* View Reward Balance
+* Track Reward Activity
+* Redeem Available Benefits
 
-### Authentication
+---
 
-* Custom Authentication System
+## 🔔 Notifications
 
-### Additional Libraries
+Guests receive:
 
-* html2canvas
-* jsPDF
+* Reservation Updates
+* Hotel Announcements
+* Reward Notifications
+* Account Notifications
+
+---
+
+## 🧾 Invoices & Billing
+
+Guests can:
+
+* View Invoices
+* Access Payment Records
+* Review Transaction History
+
+---
+
+## 👤 Profile Management
+
+Guests can:
+
+* Update Personal Information
+* Manage Account Details
+* Customize Preferences
+
+---
+
+## 💬 Support Center
+
+Guests can:
+
+* Submit Support Tickets
+* Communicate with Hotel Staff
+* Monitor Ticket Progress
+* Review Support History
+
+---
+
+# 🛠️ Administration Panel
+
+The platform includes a powerful admin dashboard built for efficient hotel management.
+
+---
+
+## 📊 Dashboard Analytics
+
+Administrators can monitor:
+
+* Total Reservations
+* Revenue Statistics
+* Occupancy Rates
+* Customer Activity
+* System Performance
+* Hotel Insights
+
+---
+
+## 🏨 Room Management
+
+Manage:
+
+* Room Creation
+* Room Updates
+* Room Deletion
+* Room Categories
+* Room Availability
+* Room Images
+* Room Information
+
+---
+
+## 📅 Booking Management
+
+Manage:
+
+* Reservations
+* Booking Approvals
+* Booking Modifications
+* Booking Cancellations
+* Check-ins
+* Check-outs
+
+---
+
+## 👥 User Management
+
+Manage:
+
+* Guest Accounts
+* User Information
+* Customer Records
+* Account Activity
+
+---
+
+## ⭐ Reviews Management
+
+Manage:
+
+* Guest Reviews
+* Ratings
+* Customer Feedback
+* Review Moderation
+
+---
+
+## 🖼️ Gallery Management
+
+Manage:
+
+* Hotel Images
+* Property Photos
+* Promotional Galleries
+* Media Content
+
+---
+
+## 🏷️ Amenities Management
+
+Manage:
+
+* Room Amenities
+* Hotel Services
+* Facility Information
+* Feature Listings
+
+---
+
+## 💳 Payments Management
+
+Manage:
+
+* Transactions
+* Payment Records
+* Revenue Reports
+* Financial Tracking
+
+---
+
+## 🧹 Housekeeping Management
+
+Manage:
+
+* Cleaning Schedules
+* Room Status
+* Maintenance Requests
+* Staff Assignments
+
+---
+
+## 🎟️ Promo Codes
+
+Manage:
+
+* Discount Codes
+* Promotional Campaigns
+* Seasonal Offers
+* Marketing Promotions
+
+---
+
+## 📋 Activity Logs
+
+Track:
+
+* User Activity
+* Administrative Actions
+* System Events
+* Security Monitoring
+
+---
+
+## 💬 Support Ticket Management
+
+Manage:
+
+* Customer Inquiries
+* Support Requests
+* Ticket Assignments
+* Issue Resolution
+
+---
+
+## 🎁 Loyalty Management
+
+Manage:
+
+* Loyalty Programs
+* Reward Systems
+* Point Allocation
+* Customer Retention Strategies
+
+---
+
+## ⚙️ Settings Management
+
+Configure:
+
+* Website Settings
+* Hotel Information
+* System Preferences
+* Platform Configuration
+
+---
+
+# 🎨 User Experience
+
+Grand Azure Hotel focuses on delivering an exceptional experience through:
+
+* Modern UI Design
+* Clean Layouts
+* Responsive Components
+* Smooth Animations
+* Professional Styling
+* Fast Performance
+* User-Friendly Navigation
+* Mobile-First Design
 
 ---
 
 # 📱 Responsive Design
 
-Grand Azure Hotel is fully responsive and optimized for:
+Fully optimized for:
 
 * Desktop Computers
 * Laptops
 * Tablets
 * Android Devices
 * iPhones
+* Large Screens
+* Small Screens
+
+---
+
+# 🚀 Technology Stack
+
+## Frontend
+
+* React
+* TypeScript
+* Vite
+* Tailwind CSS
+
+## UI Components
+
+* Radix UI
+* Lucide React
+* Framer Motion
+* Recharts
+
+## State Management
+
+* React Query
+* React Context API
+
+## Utilities
+
+* html2canvas
+* jsPDF
+
+## Authentication
+
+* Secure Authentication System
 
 ---
 
 # 🔒 Security Features
 
 * Protected Routes
-* Authentication System
+* Secure Authentication
+* Authorization Controls
+* Session Protection
 * Role-Based Access Control
-* Admin-Only Pages
-* Secure Session Handling
+* Secure Data Handling
 
 ---
 
 # 📂 Project Modules
 
-Public Website
+## Public Website
 
-* Home Page
-* Rooms Listing
+* Home
+* Rooms
 * Room Details
+* About
+* Contact
 * Login
 * Registration
 
-Guest Portal
+## Guest Portal
 
-* My Bookings
-* Profile
-* Notifications
+* Dashboard
+* Bookings
 * Wishlist
-* Loyalty Program
-* Support Center
+* Loyalty Rewards
+* Notifications
+* Profile
 * Invoices
+* Support Tickets
 
-Admin Panel
+## Admin Panel
 
 * Dashboard
 * Rooms
@@ -254,20 +395,113 @@ Admin Panel
 * Housekeeping
 * Promo Codes
 * Activity Logs
-* Support Tickets
 * Loyalty Management
+* Support Center
 * Settings
 
 ---
 
-# 🎯 Purpose
+# 🎯 Project Goals
 
-Grand Azure Hotel was built to modernize hotel operations by combining customer-facing booking features with powerful administrative tools in one integrated platform.
+Grand Azure Hotel was created to modernize hospitality operations through a single integrated platform that combines:
 
-The system helps hotels improve guest experiences, increase operational efficiency, and manage reservations, payments, customer support, and hotel resources from a centralized dashboard.
+* Hotel Website
+* Guest Management
+* Reservation Management
+* Customer Support
+* Loyalty Rewards
+* Administrative Control
+
+The system helps hotels improve efficiency, increase bookings, enhance guest experiences, and streamline daily operations.
 
 ---
 
-## © Grand Azure Hotel
+# 🌍 Future Enhancements
 
-Luxury • Comfort • Excellence
+Potential future improvements include:
+
+* Mobile Applications
+* AI Recommendations
+* Multi-Hotel Support
+* Multi-Language Support
+* Multi-Currency Support
+* SMS Notifications
+* Online Check-In
+* Online Check-Out
+* Advanced Analytics
+* Smart Room Integration
+
+---
+
+# 👨‍💻 Developer
+
+## Locos Developer
+
+A passionate Full Stack Developer focused on building modern, scalable, responsive, and user-friendly digital solutions.
+
+### Expertise
+
+* Web Development
+* Full Stack Development
+* Hotel Management Systems
+* School Management Systems
+* Mobile Applications
+* Admin Dashboards
+* API Integrations
+* Database Design
+* UI/UX Design
+* Business Management Systems
+
+### Contact
+
+📞 Phone: +254 714 838 881
+
+📧 Email: [developerlocos@gmail.com](mailto:locosdeveloper@gmail.com)
+
+💼 LinkedIn: Locos Developer
+
+🌍 Kenya
+
+---
+
+# 🤝 Contributing
+
+Contributions are welcome.
+
+1. Fork the repository
+2. Create your feature branch
+3. Commit your changes
+4. Push your branch
+5. Open a Pull Request
+
+---
+
+# ⭐ Support
+
+If you find this project useful:
+
+⭐ Star the Repository
+
+🍴 Fork the Repository
+
+📢 Share with Others
+
+💻 Contribute to Development
+
+---
+
+# 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+# © Credits
+
+## Grand Azure Hotel Management System
+
+Designed, Developed, and Maintained by **Locos Developer**.
+
+Building modern digital solutions for businesses and organizations.
+
+### Luxury • Comfort • Excellence
